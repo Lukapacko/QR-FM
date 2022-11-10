@@ -1,0 +1,17 @@
+
+ body {
+        background-color: lightgray;
+    }
+
+.gl {
+    width: 380px;
+    height: auto;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+}
+img {
+    border-radius: 20px;
+}
